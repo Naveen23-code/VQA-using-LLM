@@ -11,7 +11,7 @@ The model achieves near-perfect recall on long-context retrieval tasks across mo
 
 
 ## To use this repository
-fork the github repo using: ``` git clone https://github.com/Naveen23-code/VQA-using-LLM.git \n```
+fork the github repo using: ``` git clone https://github.com/Naveen23-code/VQA-using-LLM.git``` <br>
 After successfully cloning the repository into a local directory follow the below steps to run the Application.
 ## To run Streamlit Application
 use command: ``` streamlit run file_name.py ```
